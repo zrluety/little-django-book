@@ -6,8 +6,6 @@ Ready to build your first web app with Django? You'll need to gather a few thing
 
 If you prefer a fully featured IDE with excellent tooling for Python, I recommend looking into PyCharm (the free Community Edition is fine).
 
-**Python 3**.  Regardless of the editor or platform you're using, you'll need to install the Python. Python can be installed on Windows, Mac, or Linux.
+**Python**.  Regardless of the editor or platform you're using, you'll need to install the Python. Python can be installed on Windows, Mac, or Linux.  All of the code examples shown in this book use Python 3. I have not tested the examples for compatability with Python 2, and it is likely that the code will not work using Python 2. For a more detailed discussion of Python 2 versus Python 3, see Kenneth Reitz comments [here](http://docs.python-guide.org/en/latest/starting/which-python/). My thoughts on the matter are captured by the sentiment below from the official Python wiki:
 
-*Note on Python 2 versus Python 3*: All of the code examples shown in this book use Python 3. I have not tested the examples for compatability with Python 2, and it is likely that the code will not work using Python 2. For a more detailed discussion of Python 2 versus Python 3, I will refer readers to Kenneth Reitz comments [here](http://docs.python-guide.org/en/latest/starting/which-python/) (he is much more experienced, knowledgable, and all around smarter than myself). My thoughts on the matter are captured by the sentiment below from the official Python wiki:
-
-> > *Python 2.x is legacy, Python 3.x is the present and future of the language*
+> *Python 2.x is legacy, Python 3.x is the present and future of the language*
